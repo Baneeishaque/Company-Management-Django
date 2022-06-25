@@ -347,3 +347,7 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,django,intellij,visualstudiocode
 
 /accounts/token.json
+
+/.idea/Company-Management-Django.iml
+/.idea/misc.xml
+/.idea/modules.xml
